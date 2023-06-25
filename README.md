@@ -1,4 +1,4 @@
-# Total_Demo
+# Total_Demo || activité N°6
 La soumission de la solution de l'activité N°6 qui concerne le framework Angular
 
 
